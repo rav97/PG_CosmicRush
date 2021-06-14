@@ -1,0 +1,81 @@
+Game created by:
+
+Rafal Isbrandt 
+
+----------------------------------------------
+
+Graphics:
+
+Space Shooter Redux, 
+Space Shooter Extension,
+Kenney Fonts
+by  Kenney Vleugels (Kenney.nl)
+
+Explosion animation pack
+by Ansimuz (ansimuz.itch.io)
+
+Free Space Shooter game GUI
+by craftpix (craftpix.net)
+
+Dynamic Space Background
+by DinVStudio
+(dinvstudio.itch.io/dynamic-space-background-lite-free)
+
+Shield Aura Effect
+by sholev 
+(opengameart.org/content/shield-aura-effect)
+
+Cosmic Rush and Game Over logos
+by textcraft.net
+
+Background image
+by Papafox (pixabay.com)
+
+Other images, adaptation and modification
+by Rafal Isbrandt
+
+----------------------------------------------
+
+Music:
+
+"Techno gameplay"
+by Eric Matyas
+(www.soundimage.org)
+
+"8bit Havoc"
+by Blowfelt
+(www.opsound.org/artist/blowfelt/)
+
+"Wasteland Overdrive"
+by Matthew Pablo
+(matthewpablo.com)
+
+----------------------------------------------
+
+Music FX:
+
+Digital Audio
+by  Kenney Vleugels (Kenney.nl)
+
+"Blast" (soundbible.com/538-Blast.html)
+"Bottle Rocket" (soundbible.com/709-Bottle-Rocket.html)
+"Laser" (soundbible.com/1087-Laser.html)
+"Laser Cannon" (soundbible.com/1771-Laser-Cannon.html)
+"Grenade" (soundbible.com/1151-Grenade.html)
+by Mike Koenig
+
+"Laser 5" (freesound.org/people/DayCraftMC/sounds/337112/)
+by DayCraftMc
+
+"Laser Shot Long" (freesound.org/people/bubaproducer/sounds/151018/)
+by bulbaproducer
+
+"Sonic Boom" 
+(soundbible.com/1339-Sonic-Boom.html)
+by Grenagen
+
+"Metroid Door" (soundbible.com/1858-Metroid-Door.html)
+by Brandino 480
+
+"Bomb Drop Sound"
+(soundbible.com/1582-Bomb-Drop.html)

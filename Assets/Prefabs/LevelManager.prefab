@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2554448098781209013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3578198870776826432}
+  - component: {fileID: 1034375363844752798}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3578198870776826432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2554448098781209013}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1034375363844752798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2554448098781209013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d064b1175e20d4fb6afb14c188fdfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Players:
+  - {fileID: 1494847428607690513, guid: 3e55deb8c9b105941892db818f52ff2e, type: 3}
+  - {fileID: 6384305020078259673, guid: 813761c0a4360d048a4ddd3cc8cba3b6, type: 3}
+  - {fileID: 2908247344168023461, guid: 800e446870a9b7041be41532137e83b5, type: 3}
+  - {fileID: 2307886685905298553, guid: 7d7253f491596e441858da3461e3e685, type: 3}
+  easyWaves:
+  - {fileID: 6119428963354556681, guid: 6417608918296db4aa7535fd140f68c6, type: 3}
+  - {fileID: 4415629299103310918, guid: 8f651dc3b58fd7748b32d929a58c6ab1, type: 3}
+  - {fileID: 2832433856435946349, guid: 3309cec75b30935428aa96134ebfe821, type: 3}
+  - {fileID: 4875579040337023331, guid: a9b4c8790495a8c46b4ca1fa66cb4bb1, type: 3}
+  - {fileID: 1145580305699231325, guid: f98eb2b464ebcc049b23e08b211ebb8a, type: 3}
+  mediumWaves:
+  - {fileID: 1667324840494473356, guid: 17a25b86c7b01e34f8858cbdcfde7575, type: 3}
+  - {fileID: 695449122233581544, guid: 141f5c253e3d3f04f9c3469cb19acfc9, type: 3}
+  - {fileID: 6948149412681682748, guid: 8c7db7060ecf2d848a60f08930088abf, type: 3}
+  - {fileID: 4875579040337023331, guid: a9b4c8790495a8c46b4ca1fa66cb4bb1, type: 3}
+  - {fileID: 1145580305699231325, guid: f98eb2b464ebcc049b23e08b211ebb8a, type: 3}
+  - {fileID: 7283547092018348827, guid: 7c40cbca4f8970e46854e2f0d11b91d3, type: 3}
+  hardWaves:
+  - {fileID: 410129619789693766, guid: 9b45ec01995e80949b858126a9d3917a, type: 3}
+  - {fileID: 4203355213272337915, guid: dd02860c746e58143a43547631f660d6, type: 3}
+  - {fileID: 4875579040337023331, guid: a9b4c8790495a8c46b4ca1fa66cb4bb1, type: 3}
+  - {fileID: 1145580305699231325, guid: f98eb2b464ebcc049b23e08b211ebb8a, type: 3}
+  bosses:
+  - {fileID: 9097949858856880277, guid: 5af3472980770534687e55b333a217d5, type: 3}
+  - {fileID: 9162337815815422652, guid: 89c64703e36924643aaac21cd2fad6fe, type: 3}
+  bonuses:
+  - {fileID: 223736789486218068, guid: ce127ed71949d814892bc245d89b2cfe, type: 3}
+  - {fileID: 2241979895546531304, guid: 2f80b9eafc7de214db23669d645db795, type: 3}
+  - {fileID: 4780669802340015022, guid: 75a74155905672946b0fe84bcf8ff0fc, type: 3}
+  - {fileID: 4994374040670634996, guid: cafca8561b46b8f4fb3a6caeb45669f8, type: 3}
+  - {fileID: 6429876273870239164, guid: b2d28e591d41baa4287f11ea6dd8424c, type: 3}
+  - {fileID: 2053717387395776978, guid: e238e07b9790b074e9c9fa14935605cf, type: 3}
+  - {fileID: 7203166293850261607, guid: e1a9e628c7363494e9f0d43ddbf3b820, type: 3}
+  - {fileID: 3075733275353300354, guid: da0d2b1113215b945a8a9992c7f5df30, type: 3}
+  - {fileID: 2390107488972204090, guid: bea456bcac68a644f8cfb7c169599364, type: 3}
+  waveTime: 30
+  bossThereshold: 5000
+  BossPanel: {fileID: 0}
+  gameover: {fileID: 0}
